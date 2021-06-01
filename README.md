@@ -16,7 +16,13 @@
     3. 제출방법을 선택
 
 4. **파일설명 및 파이프라인**
-    ![스케치](https://user-images.githubusercontent.com/50386280/120295487-20a57f80-c302-11eb-9f07-5d6fdf0b24b4.png)
+    ![스케치](https://user-images.githubusercontent.com/50386280/120295487-20a57f80-c302-11eb-9f07-5d6fdf0b24b4.png). 
+    
+5. **번호별 전처리 방법 및 사용모델**
+    <img width="928" alt="스크린샷 2021-06-01 오후 5 57 11" src="https://user-images.githubusercontent.com/50386280/120296415-0f10a780-c303-11eb-8f81-627a7674b1e6.png">
+
+    
+    
 
         
     
